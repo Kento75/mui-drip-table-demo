@@ -1,5 +1,5 @@
 # mui-drip-table-demo
-・mui-drip-tableのデモ画面
+・mui-drip-table(v0.2.3~1.0.0)のデモ画面
 *****
 ## デモページ
 ・[demo](https://kento75.github.io/mui-drip-table-demo)
